@@ -5,7 +5,7 @@
 <p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshsingh2414&label=Profile%20views&color=0e75b6&style=flat" alt="harshsingh2414" /> </p>
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Machine Learning,Python,Programming**
 
