@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **maheshchauhan2414@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/14i5erF0Gu7ISUc58061UngOfuGYmOBYd/view?usp=sharing](https://drive.google.com/file/d/10uKyxAGMf-oYaGci_d_LlEEuq0yroJEi/view?usp=sharing))
+- 📄 Know about my experiences [https://drive.google.com/file/d/10uKyxAGMf-oYaGci_d_LlEEuq0yroJEi/view?usp=sharing]([https://drive.google.com/file/d/14i5erF0Gu7ISUc58061UngOfuGYmOBYd/view?usp=sharing])
 
 - ⚡ Fun fact **I do what I want**
 
